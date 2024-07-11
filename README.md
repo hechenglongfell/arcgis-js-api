@@ -2,8 +2,9 @@
 
 This repository is used as a reference for the [ArcGIS Maps SDK for JavaScript](https://developers.arcgis.com/javascript/) widget styles documentation.
 
-If you are starting a new project, we recommend using [@arcgis/core](https://developers.arcgis.com/javascript/latest/es-modules/) ES modules.
+If you are starting a new project, we recommend using a local build with components or @arcgis/core. See the [Get started with npm](https://developers.arcgis.com/javascript/latest/get-started-npm/) guide topic for more information.
 
+**Looking for 3.x?** The ArcGIS for JavaScript 3.x has been retired. See the [retirement announcement](https://www.esri.com/arcgis-blog/products/js-api-arcgis/developers/arcgis-api-for-javascript-version-3-x-retirement/) for more information.
 
 ## Requirements
 
